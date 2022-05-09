@@ -10,7 +10,7 @@ MSSFMLView::MSSFMLView(MinesweeperBoard &brd): board(brd) {
 
 }
 
-void MSSFMLView::drawOnWindow(sf::RenderWindow &win) {
-
-
-}
+//void MSSFMLView::drawOnWindow(sf::RenderWindow &win) {
+//
+//
+//}
